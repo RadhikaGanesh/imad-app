@@ -20,13 +20,13 @@ body {
     height: 200px;
 }
 
- .container {
-                    font-family: sans-serif;
-                    margin: 0 auto;
-                    color: #1b1a1a;
-                    max-width: 800px;
-                    padding-left: 10px;
-                    padding-right: 10px;
-                    padding-top: 150;
-                }
+ .container{
+    font-family: sans-serif;
+    margin: 0 auto;
+    color: #232121;
+    max-width: 800px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 150px;
+ }
 
