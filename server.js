@@ -38,7 +38,7 @@ var htmlTemplate = `<html>
                 <a href="/"> Home </a>
             </div>
             <br/>
-           ${header}
+           <h2>${header} </h2>
            <div>
                        ${date}
                  </div>
