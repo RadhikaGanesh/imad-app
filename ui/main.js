@@ -3,7 +3,7 @@ console.log('Loaded!');
 var element= document.getElementById('main-text');
 element.innerHTML='Hi! Radhika';
 //move image
-var img=document.getElementID('madi');
+var img=document.getElementId('madi');
 
 img.onclick=function() {
     img.style.marginleft='50px';
