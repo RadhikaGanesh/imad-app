@@ -6,7 +6,7 @@ element.innerHTML='Hi! Radhika';
 var img = document.getElementById('madi');
 var marginLeft = 0;
 function moveRight() {
-    marginLeft= MarginLeft + 10;
+    marginLeft= marginLeft + 10;
     img.style.marginleft= marginLeft + 'px';
 }
 
