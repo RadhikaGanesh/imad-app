@@ -5,6 +5,6 @@ element.innerHTML='Hi! Radhika';
 //move image
 var img=document.getElementId('madi');
 
-img.onclick=function() {
-    img.style.marginleft='50px';
+img.onclick = function() {
+    img.style.marginLeft='200px';
 };
